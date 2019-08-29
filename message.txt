@@ -3,7 +3,13 @@ hello Wang Wang
 hello Ong Ong
 hello Micky
 
+<<<<<<< HEAD
 hello miao miao
 test2
 test2
 test2
+=======
+test3
+test3
+test3
+>>>>>>> test3
